@@ -3,9 +3,11 @@ export default {
   websiteName: '30 seconds of code',
   websiteDescription: 'Short code snippets for all your development needs',
   shortName: '30s',
+  ownerName: 'Angelos Chalaris',
+  ownerUrl: 'https://github.com/Chalarangelo',
   orgName: '30 seconds of code',
   websiteUrl: 'https://www.30secondsofcode.org',
-  githubOrgUrl: 'https://github.com/30-seconds',
+  githubRepoUrl: 'https://github.com/30-seconds/30-seconds-of-code',
   licenseUrl: 'https://creativecommons.org/licenses/by/4.0/',
   googleSiteVerification: 'YX9mF-TxoHZGJ9SZ8XwvWgGR_KTcbH1uHul4iDklyr0',
   googleAnalytics: {
